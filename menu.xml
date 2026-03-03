@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <id>1</id>
+        <name>Burger</name>
+        <price>5.99</price>
+        <image>burger.jpg</image>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Pizza</name>
+        <price>8.99</price>
+        <image>pizza.jpg</image>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Pasta</name>
+        <price>7.49</price>
+        <image>pasta.jpg</image>
+    </item>
+    <item>
+        <id>4</id>
+        <name>noodles</name>
+        <price>6.99</price>
+        <image>fries.jpg</image>
+    </item>
+    <item>
+        <id>5</id>
+        <name>Sandwich</name>
+        <price>4.99</price>
+        <image>sandwich.jpg</image>
+    </item>
+</menu>
