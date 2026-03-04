@@ -21,3 +21,8 @@ This is a web-based Online Food Ordering System built using PHP and MySQL.
 1. Install WAMP Server
 2. Place project inside C:\wamp64\www\
 3. Open http://localhost/online_food_ordering/
+
+---
+
+## 👩‍💻 Developed By
+Aiswarya M  
